@@ -1,5 +1,7 @@
 # For Contributors
 
+Familiarize yourself with the short version of our [IntegrationHub Spoke Best Practices](SpokeDevelopmentBestPracticesPublic.docx). This has been edited to the top recommendations. There is a 30 page version also available but start with the abbreviated version.
+
 Select the project you wish to join!
 Please search the issue tracker before creating a new issue (problem or an improvement request). Feel Free to add issues related to the project.
 
@@ -15,7 +17,7 @@ Make your contribution
 Commit your changes
 Create a Pull Request
 
-# For maintainers
+## For maintainers
 
  Each of the Spokes needs one maintainer. If you wish to be the Repo owner - please reach out to Andrew Barnes or Dave Slusher for access and include your GitHub account name.
  If you wish to maintain a repo, you have a couple of options. Everyone can work in the same instance, you can have users fork and perform full PR, or if you have lots of contributors use GitHubCompanion.
@@ -33,10 +35,11 @@ Auth to GitHub via Repositories module
 Setup Repo's via Repo Config module
     Important note, you need to have pulled the application from source control into the instance first
 Click the *Subscribe to pull requests* UI Action
-Once you have pull requests, you can open them, and use the *Open in Portal* UI action to via the differences and accept the PR. 
+Once you have pull requests, you can open them, and use the *Open in Portal* UI action to via the differences and accept the PR.
+
 Once you click accept, it loads those files into the SN Instance, and you must then use Studio to Commit to your Repo.
 
-# List of suggested IntegrationHub Spokes
+## List of suggested IntegrationHub Spokes
 
 * Airtable
 * Bamboo
