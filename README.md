@@ -6,7 +6,7 @@ This year we are asking for interested developers to work on building Spokes for
 
 First, sign up for [Hacktoberfest at Digital Ocean](https://hacktoberfest.digitalocean.com/). They will ask  you to OAuth to GitHub in order to link those together. Once you do, you are registered for the challenge.
 
-Next, go to the [Getting Started guide](GettingStarted). You can find projects that interest you on there. If you want to be a maintainer you can claim a project. If you want to contribute, follow the instructions to create your own fork and start building.
+Next, go to the [Getting Started guide](GettingStarted.md). You can find projects that interest you on there. If you want to be a maintainer you can claim a project. If you want to contribute, follow the instructions to create your own fork and start building.
 
 Note that this year, in order to qualify for the Hacktoberfest shirt you must:
 
