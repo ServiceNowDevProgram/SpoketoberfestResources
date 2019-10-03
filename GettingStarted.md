@@ -2,7 +2,7 @@
 
 ## Preparation
 
-Familiarize yourself with the short version of our [IntegrationHub Spoke Best Practices](SpokeDevelopmentBestPracticesPublic.docx). This has been edited to the top recommendations. There is a 30 page version also available but start with the abbreviated version.
+Familiarize yourself with the short version of our [IntegrationHub Spoke Best Practices](https://github.com/ServiceNowDevProgram/SpoketoberfestResources/blob/master/SpokeDevelopmentBestPracticesPublic.docx?raw=true). This has been edited to the top recommendations. There is a 30 page version also available but start with the abbreviated version.
 
 ## Choose What to Work on
 
