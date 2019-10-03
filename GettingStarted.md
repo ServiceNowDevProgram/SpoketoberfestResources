@@ -1,21 +1,22 @@
 # For Contributors
 
-Familiarize yourself with the short version of our [IntegrationHub Spoke Best Practices](SpokeDevelopmentBestPracticesPublic.docx). This has been edited to the top recommendations. There is a 30 page version also available but start with the abbreviated version.
+Familiarize yourself with the short version of our [IntegrationHub Spoke Best Practices](SpokeDevelopmentBestPracticesPublic.docx). The document has been edited to the top recommendations. There is a 30-page version also available but start with the abbreviated version.
 
 Select the project you wish to join!
 Please search the issue tracker before creating a new issue (problem or an improvement request). Feel Free to add issues related to the project.
 
-If you feel that you can fix or implement it yourself, please read a few paragraphs below to learn how to submit your changes.
+If you feel that you can fix or implement it yourself, please read the below to learn how to submit your changes.
 
-Submitting Changes
-Comment on the issue, so others know you are working on the issue.
-Fork the project
-Create a user account and grant it Admin role on your Personal Developer Instance (PDI) with the same name as your GitHub account and switch to it.
-Install your fork on your PDI with credentials (so you have write access)
-Create Branch something-descriptive
-Make your contribution
-Commit your changes
-Create a Pull Request
+# Submitting Changes
+
+1. Comment on the issue, so others know you are working on the issue.
+1. Fork the project
+1. Create a user account and grant it Admin role on your Personal Developer Instance (PDI) with the same name as your GitHub account and switch to it.
+1. Install your fork on your PDI with credentials (so you have write access)
+1. Create Branch something-descriptive
+1. Make your contribution
+1. Commit your changes
+1. Create a Pull Request
 
 ## For maintainers
 
@@ -30,12 +31,12 @@ Accept the PR in GitHub - then sync the instance you are managing from the updat
 
 ## Many Contributors - GitHubCompanion
 
-Download and install [update set batch](https://github.com/ServiceNowDevProgram/SpoketoberfestResources/raw/master/2GHC.xml)
-Auth to GitHub via Repositories module
-Setup Repo's via Repo Config module
+1. Download and install [update set batch](https://github.com/ServiceNowDevProgram/SpoketoberfestResources/raw/master/2GHC.xml)
+1. Auth to GitHub via Repositories module
+1. Setup Repo's via Repo Config module
     Important note, you need to have pulled the application from source control into the instance first
-Click the *Subscribe to pull requests* UI Action
-Once you have pull requests, you can open them, and use the *Open in Portal* UI action to via the differences and accept the PR.
+1. Click the *Subscribe to pull requests* UI Action
+1. Once you have pull requests, you can open them, and use the *Open in Portal* UI action to via the differences and accept the PR.
 
 Once you click accept, it loads those files into the SN Instance, and you must then use Studio to Commit to your Repo.
 
