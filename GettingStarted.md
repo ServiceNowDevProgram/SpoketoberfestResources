@@ -28,8 +28,7 @@ Accept the PR in GitHub - then sync the instance you are managing from the updat
 
 ## Many Contributors - GitHubCompanion
 
-Download and install 
- <a href="https://github.com/ServiceNowDevProgram/SpoketoberfestResources/raw/master/2GHC.xml" download>update set batch</a>
+Download and install [update set batch](https://github.com/ServiceNowDevProgram/SpoketoberfestResources/raw/master/2GHC.xml)
 Auth to GitHub via Repositories module
 Setup Repo's via Repo Config module
     Important note, you need to have pulled the application from source control into the instance first
