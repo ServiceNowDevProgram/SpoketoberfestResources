@@ -47,28 +47,28 @@ Accept the PR in GitHub - then sync the instance you are managing from the updat
 
 ## List of suggested IntegrationHub Spokes
 
-* Airtable
-* Bamboo
-* Circle CI
-* Dropbox
-* FTP
-* Facebook
-* GitLab
-* Instagram
-* LastPass Enterprise
-* MQTT
-* MariaDB
-* MySQL
-* Office 365 Calendar
-* Office 365 Contacts
-* Office 365 Mail
-* PagerDuty
-* Paypal
-* PostgreSQL
-* RSS
-* SFTP
-* Shopify
-* Stripe
-* SurveyMonkey
-* Travis CI
-* TripIt
+* [Airtable](https://github.com/ServiceNowDevProgram/Spoketoberfest_Airtable)
+* [Bamboo](https://github.com/ServiceNowDevProgram/Spoketoberfest_Bamboo)
+* [Circle CI](https://github.com/ServiceNowDevProgram/Spoketoberfest_Circle_CI)
+* [Dropbox](https://github.com/ServiceNowDevProgram/Spoketoberfest_Dropbox)
+* [FTP](https://github.com/ServiceNowDevProgram/Spoketoberfest_FTP)
+* [Facebook](https://github.com/ServiceNowDevProgram/Spoketoberfest_Facebook)
+* [GitLab](https://github.com/ServiceNowDevProgram/Spoketoberfest_GitLab)
+* [Instagram](https://github.com/ServiceNowDevProgram/Spoketoberfest_Instagram)
+* [LastPass Enterprise](https://github.com/ServiceNowDevProgram/Spoketoberfest_LastPass_Enterprise)
+* [MQTT](https://github.com/ServiceNowDevProgram/Spoketoberfest_MQTT)
+* [MariaDB](https://github.com/ServiceNowDevProgram/Spoketoberfest_MariaDB)
+* [MySQL](https://github.com/ServiceNowDevProgram/Spoketoberfest_MySQL)
+* [Office 365 Calendar](https://github.com/ServiceNowDevProgram/Spoketoberfest_Office_365_Calendar)
+* [Office 365 Contacts](https://github.com/ServiceNowDevProgram/Spoketoberfest_Office_365_Contacts)
+* [Office 365 Mail](https://github.com/ServiceNowDevProgram/Spoketoberfest_Office_365_Mail)
+* [PagerDuty](https://github.com/ServiceNowDevProgram/Spoketoberfest_PagerDuty)
+* [Paypal](https://github.com/ServiceNowDevProgram/Spoketoberfest_Paypal)
+* [PostgreSQL](https://github.com/ServiceNowDevProgram/Spoketoberfest_PostgreSQL)
+* [RSS](https://github.com/ServiceNowDevProgram/Spoketoberfest_RSS)
+* [SFTP](https://github.com/ServiceNowDevProgram/Spoketoberfest_SFTP)
+* [Shopify](https://github.com/ServiceNowDevProgram/Spoketoberfest_Shopify)
+* [Stripe](https://github.com/ServiceNowDevProgram/Spoketoberfest_Stripe)
+* [SurveyMonkey](https://github.com/ServiceNowDevProgram/Spoketoberfest_SurveyMonkey)
+* [Travis CI](https://github.com/ServiceNowDevProgram/Spoketoberfest_Travis_CI)
+* [TripIt](https://github.com/ServiceNowDevProgram/Spoketoberfest_TripIt)
