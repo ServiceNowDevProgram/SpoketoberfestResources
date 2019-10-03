@@ -28,13 +28,13 @@ Accept the PR in GitHub - then sync the instance you are managing from the updat
 
 ## Many Contributors - GitHubCompanion
 
-Download and install [update set batch](https://github.com/ServiceNowDevProgram/SpoketoberfestResources/raw/master/2GHC.xml)
-Auth to GitHub via Repositories module
-Setup Repo's via Repo Config module
-    Important note, you need to have pulled the application from source control into the instance first
-Click the *Subscribe to pull requests* UI Action
-Once you have pull requests, you can open them, and use the *Open in Portal* UI action to via the differences and accept the PR. 
-Once you click accept, it loads those files into the SN Instance, and you must then use Studio to Commit to your Repo.
+* Download and install [update set batch](https://github.com/ServiceNowDevProgram/SpoketoberfestResources/raw/master/2GHC.xml)
+* Auth to GitHub via Repositories module
+* Setup Repo's via Repo Config module
+    *Note*: you need to have pulled the application from source control into the instance first
+* Click the *Subscribe to pull requests* UI Action
+* Once you have pull requests, you can open them, and use the *Open in Portal* UI action to via the differences and accept the PR.
+* Once you click accept, it loads those files into the SN Instance, and you must then use Studio to Commit to your Repo.
 
 # List of suggested IntegrationHub Spokes
 
