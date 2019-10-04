@@ -23,7 +23,7 @@ If you feel that you can fix or implement it yourself, please read the below to 
 1. Commit your changes
 1. Create a Pull Request
 
-## For maintainers
+# For maintainers
 
  Each of the Spokes needs one maintainer. If you wish to be the Repo owner - please reach out to Andrew Barnes or Dave Slusher for access and include your GitHub account name.
 
