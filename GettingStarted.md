@@ -64,6 +64,7 @@ Accept the PR in GitHub - then sync the instance you are managing from the updat
 * [Office 365 Mail](https://github.com/ServiceNowDevProgram/Spoketoberfest_Office_365_Mail)
 * [PagerDuty](https://github.com/ServiceNowDevProgram/Spoketoberfest_PagerDuty)
 * [Paypal](https://github.com/ServiceNowDevProgram/Spoketoberfest_Paypal)
+* [Plant.id](https://github.com/23Thom/plant_recognition)
 * [PostgreSQL](https://github.com/ServiceNowDevProgram/Spoketoberfest_PostgreSQL)
 * [RSS](https://github.com/ServiceNowDevProgram/Spoketoberfest_RSS)
 * [SFTP](https://github.com/ServiceNowDevProgram/Spoketoberfest_SFTP)
