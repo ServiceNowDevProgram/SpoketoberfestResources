@@ -62,6 +62,7 @@ Accept the PR in GitHub - then sync the instance you are managing from the updat
 * [Office 365 Calendar](https://github.com/ServiceNowDevProgram/Spoketoberfest_Office_365_Calendar)
 * [Office 365 Contacts](https://github.com/ServiceNowDevProgram/Spoketoberfest_Office_365_Contacts)
 * [Office 365 Mail](https://github.com/ServiceNowDevProgram/Spoketoberfest_Office_365_Mail)
+* [OpenSea](https://github.com/phr-nk/Spoketoberfest_OpenSea)
 * [PagerDuty](https://github.com/ServiceNowDevProgram/Spoketoberfest_PagerDuty)
 * [Paypal](https://github.com/ServiceNowDevProgram/Spoketoberfest_Paypal)
 * [Plant.id](https://github.com/23Thom/plant_recognition)
