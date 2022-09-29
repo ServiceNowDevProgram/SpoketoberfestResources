@@ -13,6 +13,8 @@ Next, go to the [Getting Started guide](CONTRIBUTING.md). You can find projects 
 Note that this year, to qualify for the Hacktoberfest shirt you must:
 
 1. Make four pull requests that meet minimum quality standards (aren't automated or spam, etc.)
-2. Be in the first 50,000 qualifying users. This year, in particular, procrastination may cost you the shirt if that matters to you.
+2. Be in the first 40,000 qualifying users. This year, in particular, procrastination may cost you the shirt if that matters to you.
+
+## Questions?
 
 Thanks to everyone that builds and contributes. If you have any issues, feel free to find us on the #hacktoberfest channel on the [sndevs.com](https://sndevs.com/) Slack workspace
