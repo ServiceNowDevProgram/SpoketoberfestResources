@@ -6,7 +6,7 @@ Familiarize yourself with the short version of our [IntegrationHub Spoke Best Pr
 
 ## Choose What to Work on
 
-Select the project you wish to join! (List below)
+Select the project you wish to join! (List below). Or open an issue letting us know that you would like to create a different integration than what is listed.
 
 Please search the issue tracker for any project before creating a new issue (problem or an improvement request). Feel free to add issues related to the project.
 
@@ -46,6 +46,8 @@ Accept the PR in GitHub - then sync the instance you are managing from the updat
 1. Once you click accept, it loads those files into the SN Instance, and you must then use Studio to Commit to your Repo.
 
 ## List of suggested IntegrationHub Spokes
+
+Or open an issue letting us know that you would like to create a different integration than what is listed.
 
 * [Airtable](https://github.com/ServiceNowDevProgram/Spoketoberfest_Airtable)
 * [Bamboo](https://github.com/ServiceNowDevProgram/Spoketoberfest_Bamboo)
