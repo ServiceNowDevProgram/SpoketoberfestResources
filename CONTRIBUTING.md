@@ -52,6 +52,7 @@ Or open an issue letting us know that you would like to create a different integ
 * [Airtable](https://github.com/ServiceNowDevProgram/Spoketoberfest_Airtable)
 * [Bamboo](https://github.com/ServiceNowDevProgram/Spoketoberfest_Bamboo)
 * [Circle CI](https://github.com/ServiceNowDevProgram/Spoketoberfest_Circle_CI)
+* [Discogs](https://github.com/ServiceNowDevProgram/Spoketoberfest_Discogs/)
 * [Dropbox](https://github.com/ServiceNowDevProgram/Spoketoberfest_Dropbox)
 * [FTP](https://github.com/ServiceNowDevProgram/Spoketoberfest_FTP)
 * [Facebook](https://github.com/ServiceNowDevProgram/Spoketoberfest_Facebook)
